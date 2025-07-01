@@ -1,0 +1,14 @@
+# Qwen-TTS API Configuration
+# Copy this content to a file named .env and replace with your actual API key
+
+# Your DashScope API key (get it from https://dashscope.aliyun.com/)
+DASHSCOPE_API_KEY=sk-your-actual-api-key-here
+
+# Alternative variable names (uncomment if you prefer these)
+# QWEN_API_KEY=sk-your-actual-api-key-here
+# QWEN_TTS_API_KEY=sk-your-actual-api-key-here
+# ALIBABA_API_KEY=sk-your-actual-api-key-here
+
+# Optional: Model configuration
+# MODEL_NAME=qwen-tts-latest
+# VOICE_NAME=Sunny 
